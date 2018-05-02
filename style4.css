@@ -1,0 +1,20 @@
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	font-family: futura;
+	color: #f9f3f4
+}
+ul li {
+	float: left;
+	width: 200px;
+	height: 40px;
+	background-color: black;
+	opacity: .8;
+
+}
+ul li a {
+	text-decoration: none;
+	color: #f9f3f4
+	display: block;
+}
