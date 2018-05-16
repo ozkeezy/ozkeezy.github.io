@@ -1,3 +1,20 @@
+
+
+		body {
+			background-image: url(https://images4.alphacoders.com/774/thumb-1920-77408.jpg);
+			
+			position: scroll;
+			background-color: black;
+			width: 100%;
+			height: auto;
+			}
+
+.container{
+	width: 80%;
+}
+
+
+
 ul {
 	margin: 0px;
 	padding: 0px;
@@ -15,6 +32,40 @@ ul li {
 }
 ul li a {
 	text-decoration: none;
-	color: #f9f3f4
+	color: #f9f3f4;
 	display: block;
 }
+
+h2{
+	text-align: center;
+	background-color: white;
+}
+
+.images #img1 {
+	text-align: left;
+}
+
+.images #img2 {
+	text-align: center;
+}
+
+.text #title {
+	font-family: futura;
+}
+
+.images #video1 {
+	text-align: left;
+	border: none;
+}
+
+.images #video3 {
+	text-align: center;
+	border: none;
+}
+
+.images #shape{
+	text-align: right;
+	border:none;
+}
+
+
